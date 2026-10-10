@@ -1,0 +1,6 @@
+{
+  "name": "পবিত্র কাবা শরীফ ও তাওয়াফ ৩ডি দর্শন | Holy Kaaba 3D & Tawaf Experience",
+  "description": "মক্কার পবিত্র কাবা শরীফ, হাজীদের জীবন্ত তাওয়াফ, মাকামে ইব্রাহিম, হাতিমে কাবা ও চারপাশ ঘুরে দেখার ইন্টারেক্টিভ থ্রিডি অভিজ্ঞতা। Interactive 3D Virtual Exploration of the Holy Kaaba & Tawaf in Makkah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
